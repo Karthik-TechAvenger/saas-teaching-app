@@ -92,6 +92,7 @@ const CompanionComponent = ({
       serverMessages: [],
     };
     //@ts-expect-error
+    //@typescrpipt-eslint/ban-ts-comment
     vapi.start(configureAssistant(voice, style), assistantOverrides);
   };
   const handleDisconnect = () => {
