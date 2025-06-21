@@ -1,3 +1,22 @@
+
+Introduction
+
+This is AI Voice Agent powered Full Stack Saas App which helps users learn any subject using an AI tutor with fully safe authentication and error tracking systems using Sentry.
+Allows users to speak to the agent and helps them learn any topin in there own way in their own pace personally. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ⚙️ Tech Stack
 
 Clerk is a unified platform for authentication, user management, and billing. It offers embeddable UI components, flexible APIs, and admin dashboards for secure user management. Clerk also simplifies subscription management, allowing you to define plans, create pricing pages, and control access based on subscription tiers—all in one solution.
