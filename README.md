@@ -3,6 +3,10 @@
 Empowering personalized learning through voice-based AI tutoring.
 This app helps users learn any subject in their own way and at their own pace, powered by intelligent voice agents. Built with a secure, scalable full-stack architecture.
 
+
+
+
+
 🚀 Features
 
 🎧 AI Voice Agent – Speak naturally to an AI tutor that adapts to your subject and pace.
@@ -27,6 +31,11 @@ This app helps users learn any subject in their own way and at their own pace, p
 
 📈 Performance Monitoring – Sentry integration for real-time bug tracking.
 
+
+
+
+
+
 🛠️ Tech Stack
 
 Category	Tool
@@ -43,6 +52,11 @@ Monitoring	Sentry
 
 Validation	Zod
 
+
+
+
+
+
 🎯 Problem It Solves
 
 Traditional online learning platforms often lack personalized engagement and natural interaction. This app solves that by:
@@ -56,10 +70,20 @@ Ensuring secure access and tracking through modern dev tools.
 Making it easy to create custom tutors tailored to your learning needs.
 
 
+
+
+
+
+
 📸 Demo 
 
 
 🔗 https://saas-teaching-8kj0vw5mq-karthik-kulkarnis-projects.vercel.app/
+
+
+
+
+
 
 
 
@@ -70,6 +94,11 @@ Frontend: Built with Next.js, featuring SSR, dynamic routes, and Tailwind UI com
 Backend: Supabase powers auth, real-time sessions, and Postgres DB.
 Voice Agent: Vapi handles voice interaction, speech-to-text, and AI response generation.
 Monitoring: Sentry is configured for real-time error logging and debugging.
+
+
+
+
+
 
 📂 Project Structure
 
@@ -82,6 +111,10 @@ Monitoring: Sentry is configured for real-time error logging and debugging.
 /lib
   utils             → Reusable utility functions
   zod-schemas       → Input validation with Zod
+
+
+
+  
   
 📌 Future Roadmap
 
@@ -94,6 +127,11 @@ Monitoring: Sentry is configured for real-time error logging and debugging.
 🧠 AI-powered quiz generator
 
 📱 Native mobile app using Expo
+
+
+
+
+
 
 📬 Contact
 
