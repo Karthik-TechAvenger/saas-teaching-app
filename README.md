@@ -86,9 +86,13 @@ Monitoring: Sentry is configured for real-time error logging and debugging.
 📌 Future Roadmap
 
 🧑‍🏫 Tutor personalization with emotional tone
+
 🗣️ Multilingual voice support
+
 📊 Learning analytics dashboard
+
 🧠 AI-powered quiz generator
+
 📱 Native mobile app using Expo
 
 📬 Contact
@@ -96,6 +100,8 @@ Monitoring: Sentry is configured for real-time error logging and debugging.
 If you'd like to learn more or collaborate:
 
 💻 GitHub: Karthik-TechAvenger
+
 🧑‍💼 LinkedIn: https://www.linkedin.com/in/karthik-kulkarni9/
+
 📧 Email: karthikrk2004@gmail.com
 
