@@ -6,24 +6,41 @@ This app helps users learn any subject in their own way and at their own pace, p
 🚀 Features
 
 🎧 AI Voice Agent – Speak naturally to an AI tutor that adapts to your subject and pace.
+
 🔐 Authentication – Secure login with Clerk (including Google & social auth).
+
 💳 Billing & Subscriptions – Handle upgrades and plans seamlessly.
+
 🧠 Create a Tutor – Choose a subject, tone, and personality for your own tutor.
+
 🗂️ Bookmarks & History – Track learning sessions and favorite tutors.
+
 🔎 Search & Filters – Quickly discover tutors with advanced filtering.
+
 🔄 Cross-Device Compatibility – Fully responsive and mobile-friendly.
+
 🧩 Modular Codebase – Reusable components for rapid development.
+
 📡 Real-Time Data – Backed by Supabase for instant sync and storage.
+
 🖥️ Modern UI/UX – Clean design with Tailwind CSS and shadcn/ui.
+
 📈 Performance Monitoring – Sentry integration for real-time bug tracking.
+
 🛠️ Tech Stack
 
 Category	Tool
+
 Frontend	Next.js, Tailwind CSS, shadcn/ui, TypeScript
+
 Backend	Supabase, [Next.js API Routes]
+
 Authentication & Billing	Clerk
+
 Voice AI	Vapi
+
 Monitoring	Sentry
+
 Validation	Zod
 
 🎯 Problem It Solves
@@ -31,10 +48,15 @@ Validation	Zod
 Traditional online learning platforms often lack personalized engagement and natural interaction. This app solves that by:
 
 Letting users talk to AI tutors like in a real classroom.
+
 Providing personalized learning experiences that are voice-first.
+
 Ensuring secure access and tracking through modern dev tools.
+
 Making it easy to create custom tutors tailored to your learning needs.
-📸 Demo (Optional)
+
+
+📸 Demo 
 
 
 🔗 https://saas-teaching-8kj0vw5mq-karthik-kulkarnis-projects.vercel.app/
